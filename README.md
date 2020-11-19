@@ -15,10 +15,7 @@ name: Scan Code for Secrets
 
 on:
   pull_request:
-    - opened
-    - reopened
-    - ready_for_review
-    - synchronize
+    types: [opened, reopened, ready_for_review, synchronize]
   push:
     branches:
       - '**'
