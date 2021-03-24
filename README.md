@@ -1,6 +1,6 @@
 # Detect Secrets Action
 
-This github action scans a repository usuing Yelp's [Detect Secrets](https://github.com/Yelp/detect-secrets) library.
+This github action scans a repository using Yelp's [Detect Secrets](https://github.com/Yelp/detect-secrets) library.
 
 ## Sample Configuration
 
